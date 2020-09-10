@@ -1,5 +1,4 @@
 # Go-uuid
-Go-uuid
 
-https://github.com/satori/go.uuid
-https://github.com/google/uuid
+本项目为go语言生成uuid和通过雪花算法生成分布式唯一id。
+
